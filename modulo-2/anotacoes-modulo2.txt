@@ -1,0 +1,19 @@
+Modulos dois
+
+Capitulo 13 - Falar de cores, cores transmitem emocoes, psicologia das cores, as cores vendem sua ideia.
+Oh Gimp, pode me ajudar se eu precisar pegar a referencia da cor, em hexadecimal.
+As cores basicamente, tem a junção de 3 cores, Vermelho, Verde e Azul.
+Eu tambem posso passar com o curso no Visual Code, e clica em cima da cor, mas basicamente para fazer isso
+tenho que ja ter alguma cor pelomenos, e posso usar aqueles estilos, com RGB, HSL, ou Hexadecimal.
+A transparencia vai ser a barra ao lado da cor que voce escolher.
+
+ 
+
+
+
+
+
+
+
+
+
